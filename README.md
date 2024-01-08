@@ -9,17 +9,15 @@
 <H3>
   
 * I am a student at IIIT-D 📖
-* I am pursuing my Bachelors in Computer Science 💻
-* I like making software that I can use in my daily life 😊
+* I am pursuing my Bachelors in Computer Science & Engineering 💻
 </H3>
 <br>
 
 ***
 
 <H2><b><i> What Languages and Tools do I know?</i></b></H2>
-
-![python](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/645ccc45-c3e6-4091-a153-7ae5ffc5d0da)  ![java](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/81477585-9dd3-48de-bc11-8c7dc7f29e84)   ![kotlin-logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/7fcbd4d2-87c3-4dfe-ae62-c1dc3beaf270)
-![c++](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/b3a0164a-ac3a-4e3d-a698-3f8d3c2726fa)
+Python, C++
+My github profile:(https://github.com/whiteR9se)
 
 
 ![Pycharm logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/04715142-ec64-477b-914f-9346030aa0c4)
